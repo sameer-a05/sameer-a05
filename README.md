@@ -46,4 +46,3 @@ I thrive on turning ideas into real, impactful solutions.
 
 ## 📫 Connect with Me  
 💼 [LinkedIn](https://www.linkedin.com/in/sameeral/)  
-🌐 [Portfolio](https://sameeralshamiri.vercel.app/)  
