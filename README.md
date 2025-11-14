@@ -1,6 +1,6 @@
 # ⚡ Sameer Alshamiri
 
-`Software Engineer | Fullstack Developer | CS @ Oakland University`
+`Software Engineer | CS @ Oakland University`
 
 Hi! I'm Sameer, a Computer Science student passionate about frontend development, fullstack applications, and AI-driven projects.  
 I love building engaging user experiences while keeping performance, scalability, and clean code in mind.  
